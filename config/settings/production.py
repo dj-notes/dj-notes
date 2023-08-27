@@ -19,6 +19,7 @@ ALLOWED_HOSTS = env.list(
         "localhost:8000",
         "dj-notes.glitch.me",
         "dj-notes.vercel.app",
+        "dj-notes-git-dev-dj-notes.vercel.app",
     ],
 )
 
